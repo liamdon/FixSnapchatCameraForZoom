@@ -11,11 +11,11 @@ This script re-enables that support. For most users, disabling library validatio
 * Unzip it, and open the directory
 * Open the Terminal ([instructions here](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac#trml663c6997))
 * Drag the 'fix.sh' into the terminal
-* Hit return, and type your password
+* Hit return, and type your Mac password
 * Zoom now works with Snap Camera again
 
-#### Developers / more terminal
-* Clone this repository with git
+#### Developers
+* Clone this repo
 * ./fix.sh
 * Type password for sudo (feel free to check out both files to see what is happening)
 * Zoom now works with Snap Camera again
