@@ -2,7 +2,11 @@
 
 The latest Zoom update (4.6.9) broke support for Snap Camera. Zoom increased security by adopting Apple's "Hardened Runtime", but they didn't make an exception for libraries like Snap Camera.
 
-This script re-enables that support. For most users, disabling library validation is not a major security concern and the tradeoff is worthwhile, because you get to be a potato in the chat again.
+This script re-enables that support. For most consumer users, disabling library validation is not a major security concern and the tradeoff is worthwhile, because you get to be a potato in the chat again.
+
+If you work in government or a corporate environment, it's probably better not to apply this fix for security reasons, and because there's really no need to be a chat potato when you're on a work call.
+
+Stay safe!
 
 ### Instructions
 #### Non-developers
