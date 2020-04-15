@@ -7,6 +7,7 @@ This script re-enables that support. For most users, disabling library validatio
 ### Instructions
 #### Non-developers
 
+* Quit Zoom and/or Snap Camera
 * [Download the zip file here](https://github.com/liamdon/FixZoomCameraForSnapchat/archive/master.zip)
 * Unzip it, and open the directory that is created
 * Open the Terminal ([instructions here](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac#trml663c6997))
@@ -16,6 +17,7 @@ This script re-enables that support. For most users, disabling library validatio
 * Zoom now works with Snap Camera again
 
 #### Developers
+* Quit Zoom and/or Snap Camera
 * Clone this repo
 * ./fix.sh
 * Type password for sudo (feel free to check out both files to see what is happening)
