@@ -1,6 +1,6 @@
-## Fix Zoom to make Snapchat Camera work again
+## Fix Zoom to make Snapchat Camera work again (on Mac)
 
-The latest Zoom update broke support for Snap Camera. They increased security by adopting Apple's "Hardened Runtime", but they did not make an exception for libraries like Snap Camera.
+The latest Zoom update broke support for Snap Camera for Mac. Zoom increased security by adopting Apple's "Hardened Runtime", but they did not make an exception for libraries like Snap Camera.
 
 This script re-enables that support. For most users, disabling library validation is not a major security concern and the tradeoff is worthwhile, because you get to be a potato in the chat again.
 
